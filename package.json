@@ -1,0 +1,23 @@
+{
+  "name": "bmi-_calculator",
+  "version": "1.0.0",
+  "description": "A simple BMI calculator",
+  "main": "bmicalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskarkumar1/bmi_calculator.git"
+  },
+  "author": "bhaskar kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaskarkumar1/bmi_calculator/issues"
+  },
+  "homepage": "https://github.com/bhaskarkumar1/bmi_calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
